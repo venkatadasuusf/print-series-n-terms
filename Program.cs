@@ -31,7 +31,6 @@ namespace print_series_n_terms
                                 Console.Write(i + ",");
                                 count++;
                             }
-
                         }
                     }
                 }
